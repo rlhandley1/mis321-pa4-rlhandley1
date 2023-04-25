@@ -1,0 +1,15 @@
+/Users/reghanhandley/Desktop/MIS/Repos/mis321-pa4-rlhandley1/bin/Debug/net6.0/mis321-pa4-rlhandley1
+/Users/reghanhandley/Desktop/MIS/Repos/mis321-pa4-rlhandley1/bin/Debug/net6.0/mis321-pa4-rlhandley1.deps.json
+/Users/reghanhandley/Desktop/MIS/Repos/mis321-pa4-rlhandley1/bin/Debug/net6.0/mis321-pa4-rlhandley1.runtimeconfig.json
+/Users/reghanhandley/Desktop/MIS/Repos/mis321-pa4-rlhandley1/bin/Debug/net6.0/mis321-pa4-rlhandley1.dll
+/Users/reghanhandley/Desktop/MIS/Repos/mis321-pa4-rlhandley1/bin/Debug/net6.0/mis321-pa4-rlhandley1.pdb
+/Users/reghanhandley/Desktop/MIS/Repos/mis321-pa4-rlhandley1/obj/Debug/net6.0/mis321-pa4-rlhandley1.csproj.AssemblyReference.cache
+/Users/reghanhandley/Desktop/MIS/Repos/mis321-pa4-rlhandley1/obj/Debug/net6.0/mis321-pa4-rlhandley1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/reghanhandley/Desktop/MIS/Repos/mis321-pa4-rlhandley1/obj/Debug/net6.0/mis321-pa4-rlhandley1.AssemblyInfoInputs.cache
+/Users/reghanhandley/Desktop/MIS/Repos/mis321-pa4-rlhandley1/obj/Debug/net6.0/mis321-pa4-rlhandley1.AssemblyInfo.cs
+/Users/reghanhandley/Desktop/MIS/Repos/mis321-pa4-rlhandley1/obj/Debug/net6.0/mis321-pa4-rlhandley1.csproj.CoreCompileInputs.cache
+/Users/reghanhandley/Desktop/MIS/Repos/mis321-pa4-rlhandley1/obj/Debug/net6.0/mis321-pa4-rlhandley1.dll
+/Users/reghanhandley/Desktop/MIS/Repos/mis321-pa4-rlhandley1/obj/Debug/net6.0/refint/mis321-pa4-rlhandley1.dll
+/Users/reghanhandley/Desktop/MIS/Repos/mis321-pa4-rlhandley1/obj/Debug/net6.0/mis321-pa4-rlhandley1.pdb
+/Users/reghanhandley/Desktop/MIS/Repos/mis321-pa4-rlhandley1/obj/Debug/net6.0/mis321-pa4-rlhandley1.genruntimeconfig.cache
+/Users/reghanhandley/Desktop/MIS/Repos/mis321-pa4-rlhandley1/obj/Debug/net6.0/ref/mis321-pa4-rlhandley1.dll
